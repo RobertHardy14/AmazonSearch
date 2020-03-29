@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e98e2d9-e3a7-4f8c-a692-421a7ab92ab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZmyN9hmI2kzEeDhNwetCpX8YuN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.BaseTest">
+    <configuration name="BaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmazonSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.BaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest.SilversteinSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmazonSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.BaseTest" />
+      <option name="METHOD_NAME" value="SilversteinSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseTest" />
+        <item itemvalue="JUnit.BaseTest.SilversteinSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e98e2d9-e3a7-4f8c-a692-421a7ab92ab6" name="Default Changelist" comment="" />
+      <created>1585458521950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585458521950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="79" key="#BaseTest" timestamp="1585465049665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="79" key="#BaseTest/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585465049665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585465815623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585465815623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585465815623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585465815623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585465815623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585465815623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585465815623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585465815623" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585464407314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/127.-1014.1804.964/0.0.1536.824@0.0.1536.824" timestamp="1585464407314" />
+  </component>
+</project>
