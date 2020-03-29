@@ -1,10 +1,12 @@
 package POMs;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class ProductPage extends BasePage
 {
@@ -25,7 +27,7 @@ public class ProductPage extends BasePage
     }
     public void verifyAvailable()
     {
-        Assert.assertEquals(true, isAvailable);
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//span[contains(.,'Disponible')]")));
     }
     public void selectCD()
     {

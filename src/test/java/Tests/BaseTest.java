@@ -32,35 +32,6 @@ public class BaseTest
         prodPage = new ProductPage(driver);
         cart = new AmazonCart(driver);
     }
-
-    @Test
-    public void SilversteinSearch()
-    {
-        home.goToWebpage();
-        home.getTitle();
-        home.searchItem();
-    }
-    @Test
-    public void SelectAlbum()
-    {
-        result.selectProduct();
-    }
-    @Test
-    public void VerifyAlbumInfo()
-    {
-        prodPage.verifyAvailable();
-        prodPage.selectCD();
-        prodPage.getPrice();
-        prodPage.addToCart();
-        prodPage.gotoCart();
-    }
-
-    @Test
-    public void goToPayment()
-    {
-        cart.proceedToPayment();
-    }
-
     @After
     public void tearDown()
     {
